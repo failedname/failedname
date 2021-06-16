@@ -2,12 +2,10 @@
 
 ```javascript
 const jav = {
-  pronouns: "he" | "her",
+  pronouns: "he" | "him",
   code: [Javascript, Python],
   tools: [React, Redux, Node,Vue],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  
- 
 }
 ```
 
