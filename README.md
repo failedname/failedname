@@ -6,7 +6,7 @@
 
 
 
-### 👋
+### 👋  A little more about me... 
 
 ```javascript
 const jav = {
