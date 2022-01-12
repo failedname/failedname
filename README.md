@@ -2,7 +2,7 @@
 
 
 [![Twitter: failedname87](https://img.shields.io/twitter/follow/failedname87?style=social)](https://twitter.com/failedname87)
-[![GitHub failedname](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/failedname)
+[![GitHub failedname](https://img.shields.io/github/followers/failedname?label=follow&style=social)](https://github.com/failedname)
 
 
 
