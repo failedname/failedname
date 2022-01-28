@@ -12,7 +12,7 @@
 const jav = {
   pronouns: "he" | "him",
   code: [Javascript, Python],
-  tools: [React, Redux, Node,Vue],
+  tools: [React, Node],
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
 ```
