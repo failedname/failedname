@@ -9,7 +9,7 @@
 ### 👋  A little more about me... 
 
 ```javascript
-const jav = {
+const FAILEDNAME = {
   pronouns: "he" | "him",
   code: [Javascript, Python],
   tools: [React, Node],
